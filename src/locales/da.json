@@ -1,0 +1,181 @@
+{
+    "navbar": {
+        "logo": "MitLogo",
+        "home": "Hjem",
+        "about": "Om Os",
+        "contact": "Kontakt Os"
+      },
+
+    "about_title": "Om Globe Advokater",
+    "about_description1": "Vi er et advokatfirma, der tilbyder specialiseret juridisk rådgivning til både private og virksomheder inden for alle områder af udlændingeret. Vi er det eneste advokatfirma i Danmark, hvor advokaterne har været ansat som juridiske medarbejdere i alle relevante afdelinger i Udlændinge- og Integrationsministeriet.",
+    "about_description2": "Globe Advokater er også det eneste advokatfirma i Danmark, der udelukkende fokuserer på udlændingeret. Vi håndterer kun sager inden for dette område.",
+    "about_address": "Vi har kontorer på Bredgade 58A, 1, 1260 København K.",
+    "contact_us": "Kontakt os",
+
+    "hero_about": {
+        "titles": ["ISLANDM", "ISLANDS"],
+        "subtitle": "HVEM ER VI?"
+    },
+
+    "hero_section": {
+        "title": "FAMILIESAMMENFØRING I DANMARK",
+        "description": "Planlægger du at blive genforenet med din familie i Danmark? Uanset om det er din ægtefælle, dit barn eller et andet familiemedlem, kan det være en god idé at lade en advokat håndtere din sag for dig.",
+        "button_text": "Kom i gang"
+    },
+
+    "family_steps_section": {
+        "title": "PROCESSEN FOR FAMILIESAMMENFØRING",
+        "description": "Vi guider dig gennem den juridiske proces for familiesammenføring i Danmark med ekspertvejledning og fuld sagsbehandling."
+    },
+
+    "step_label": "Trin",
+    "family_steps": [
+        {
+            "id": "01",
+            "title": "Gratis sagsvurdering",
+            "description": "Vi foretager en gratis vurdering af din sag og gennemgår de individuelle betingelser for familiesammenføring til Danmark. Vurderingen kan foretages personligt, skriftligt, telefonisk eller via et digitalt onlinemøde. Vores solide erfaring og specialviden har hjulpet utallige familier med at opnå en vellykket familiesammenføring til Danmark.",
+            "button_text": "FÅ EN GRATIS VURDERING"
+        },
+        {
+            "id": "02",
+            "title": "Tilbud med fast pris",
+            "description": "Hvis vi i fællesskab beslutter at fortsætte ansøgningsprocessen, sender vi dig et prisoverslag for vores rådgivning, inklusive hvilke opgaver rådgivningen omfatter. Vores honorar er fast, hvilket betyder, at du kender dine omkostninger på forhånd. Du får fuld gennemsigtighed.",
+            "button_text": "FÅ ET TILBUD"
+        },
+        {
+            "id": "03",
+            "title": "Sagsopstart – Vi er med hele vejen",
+            "description": "Vi hjælper dig med at udfylde ansøgningen korrekt og assisterer dig med at fremskaffe den nødvendige dokumentation. Vi håndterer al kommunikation med den relevante myndighed og følger løbende op på din sag. Vi rådgiver dig, indtil opholdstilladelsen er opnået.",
+            "button_text": "START EN SAG"
+        }
+    ],
+
+    "get_started": "START HER",
+        "pricing_plans": [
+            {
+                "id": 1,
+                "title": "Familiesammenføring til Danmark",
+                "price": "15.000 kr.",
+                "features": [
+                    "Rådgivning, vejledning og juridisk bistand",
+                    "Tilgængelighed for spørgsmål",
+                    "Hjælp til udfyldning af ansøgningsskema",
+                    "Indsendelse af ansøgning til Udlændingestyrelsen",
+                    "Udarbejdelse af følgebrev",
+                    "Juridisk bistand ved partshøring",
+                    "Løbende opfølgning indtil sagen afsluttes",
+                    "Hjælp til ansøgning om returtilladelse",
+                    "Hjælp til registrering af CPR-nummer"
+                ],
+                "bgColor": "bg-[#111d29] text-white",
+                "buttonBg": "bg-white text-[#111d29]"
+            },
+            {
+                "id": 2,
+                "title": "Familiesammenføring efter EU-regler",
+                "price": "17.500 kr.",
+                "features": [
+                    "Rådgivning, vejledning og juridisk bistand",
+                    "Tilgængelighed for spørgsmål",
+                    "Hjælp til udfyldning af ansøgningsskema",
+                    "Indsendelse af ansøgning til SIRI",
+                    "Udarbejdelse af følgebrev",
+                    "Juridisk bistand ved partshøring",
+                    "Løbende opfølgning indtil sagen afsluttes",
+                    "Hjælp til ansøgning om returtilladelse",
+                    "Hjælp til registrering af CPR-nummer"
+                ],
+                "bgColor": "bg-white text-[#111d29]",
+                "buttonBg": "bg-[#111d29] text-white"
+            },
+            {
+                "id": 3,
+                "title": "Anke – Udlændingenævn",
+                "price": "10.000 kr.",
+                "features": [
+                    "Rådgivning, vejledning og juridisk bistand",
+                    "Gennemgang af myndighedsafgørelse",
+                    "Tilgængelighed for spørgsmål",
+                    "Oprettelse af sagsordre-ID",
+                    "Indgivelse af klage til Udlændingenævnet",
+                    "Juridisk bistand ved partshøring",
+                    "Løbende opfølgning indtil sagen afsluttes",
+                    "Hjælp til ansøgning om returtilladelse",
+                    "Udarbejdelse af partindlæg",
+                    "Anmodning om, at klagen tages til følge"
+                ],
+                "bgColor": "bg-white text-[#111d29]",
+                "buttonBg": "bg-[#111d29] text-white"
+            }
+        ],
+"our_values": {
+                "heading": "Hos Globe Advokater gør vi en forskel for vores klienter",
+                "trust": {
+                    "title": "Tillid",
+                    "description": "Som klientens betroede rådgiver indtager advokater en helt særlig rolle i samfundet. Vi hjælper mennesker i væsentlige, svære og følsomme situationer."
+                },
+                "service": {
+                    "title": "Service",
+                    "description": "Som et mindre advokatkontor vægter vi at tilbyde vores klienter specialisviden, nærvær og tilgængelighed. Vi er altid klar til at hjælpe uden forpligtelser."
+                },
+                "experience": {
+                    "title": "Erfaring",
+                    "description": "Vi kender udlændingeretten i detaljen og har over 20 års erfaring. Vores ekspertise gør os til et af de stærkeste advokatfirmaer inden for vores fagområde."
+                },
+                "button_text": "START EN SAG OP I DAG"
+            },
+
+            "experience": {
+    "left_experience": "Over 20 års praktisk erfaring med håndtering af sager om udlændingeret",
+    "right_experience": "Faste priser. Fuld gennemsigtighed, troværdighed og rimelige priser.",
+    "images": {
+      "title1": "Vi har mange års erfaring",
+      "description1": "Vores solide erfaring og specialviden har hjulpet utallige familier med at opnå en vellykket familiesammenføring i Danmark. Det er netop denne viden og erfaring, der kan være afgørende for sagens udfald.",
+      "title2": "Vi gør det nemt for dig",
+      "description2": "Ansøgning om familiesammenføring kan ofte være en langsommelig og besværlig proces. Vi hjælper dig med at udfylde ansøgningen korrekt og bistår dig med at fremskaffe den nødvendige dokumentation.",
+      "title3": "Vi gør det nemt for dig",
+      "description3": "Ansøgning om familiesammenføring kan ofte være en langsommelig og besværlig proces. Vi hjælper dig med at udfylde ansøgningen korrekt og bistår dig med at fremskaffe den nødvendige dokumentation.",
+      "title4": "Vi gør det nemt for dig",
+      "description4": "Ansøgning om familiesammenføring kan ofte være en langsommelig og besværlig proces. Vi hjælper dig med at udfylde ansøgningen korrekt og bistår dig med at fremskaffe den nødvendige dokumentation."
+    }
+  },
+
+  "chat": {
+    "title": "Chat med vores team",
+    "subtitle": "Har du brug for hjælp? Har du spørgsmål? Kontakt os, og vi vender tilbage inden for 2 timer.",
+    "first_name": "Fornavn",
+    "last_name": "Efternavn",
+    "email": "Din e-mail",
+    "address": "Din adresse",
+    "phone": "Indtast dit nummer",
+    "question": "Hvad vil du spørge om?",
+    "button": "Kom i kontakt"
+  },
+  "countries": {
+    "us": "USA",
+    "gb": "Storbritannien",
+    "in": "Indien",
+    "pk": "Pakistan",
+    "ca": "Canada",
+    "au": "Australien",
+    "fr": "Frankrig",
+    "de": "Tyskland"
+  },
+
+  "footer": {
+    "title": "Vil du høre mere?",
+    "description": "Få kontakt til en af vores advokater, som kan hjælpe dig videre i din sag.",
+    "button": "LAD OS HJÆLPE DIG",
+    "address": {
+      "title": "Adresse",
+      "line1": "Bredgade 58A, 1",
+      "line2": "1260 København K"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "phone": "T: 78744165",
+      "email": "E: info@globeadvokater.dk",
+      "cvr": "CVR: 43999648"
+    }
+  }
+}

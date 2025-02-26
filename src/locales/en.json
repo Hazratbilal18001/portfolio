@@ -1,0 +1,182 @@
+{
+    "navbar": {
+        "logo": "MyLogo",
+        "home": "Home",
+        "about": "About Us",
+        "contact": "Contact Us"
+      },
+      
+    "about_title": "About Globe Lawyers",
+    "about_description1": "We are a law firm that offers specialized legal advice to both private individuals and companies within all areas of immigration law. We are the only law firm in Denmark where the lawyers have been employed as legal staff in all relevant offices of the Ministry of Immigration and Integration.",
+    "about_description2": "Globe Advokater is also the only law firm in Denmark that focuses solely on immigration law. We only handle immigration law cases.",
+    "about_address": "We have offices at Bredgade 58A, 1, 1260 Copenhagen K.",
+    "contact_us": "Contact us",
+
+    "hero_about": {
+        "titles": ["ISLANDM", "ISLANDS"],
+        "subtitle": "WHO ARE WE?"
+    },
+
+    "hero_section": {
+        "title": "FAMILY REUNIFICATION IN DENMARK",
+        "description": "Are you planning to reunite with your family in Denmark? Whether it is your spouse, child, or another family member, it can be a good idea to have a lawyer handle your case for you.",
+        "button_text": "Get Started"
+    },
+
+    "family_steps_section": {
+        "title": "FAMILY REUNIFICATION PROCESS",
+        "description": "We guide you through the legal process of family reunification in Denmark with expert advice and full case handling."
+    },
+
+    "step_label": "Step",
+    "family_steps": [
+        {
+            "id": "01",
+            "title": "Free Case Assessment",
+            "description": "We will conduct a free assessment of your case and review the individual conditions for family reunification to Denmark. The assessment can be done in person, in writing, by telephone, or through a digital online meeting. Our solid experience and specialist knowledge have helped countless families achieve successful family reunification to Denmark.",
+            "button_text": "GET A FREE ASSESSMENT"
+        },
+        {
+            "id": "02",
+            "title": "Sending a Quote – Fixed Price",
+            "description": "If we jointly decide to proceed with the application process, we will send you a price quote for our consultancy, including which tasks the consultancy includes. Our fee is fixed, which means that you know your costs in advance. You get transparency permit is obtained.",
+            "button_text": "GET A QUOTE"
+        },
+        {
+            "id": "03",
+            "title": "Starting a Case – With You All the Way",
+            "description": "We help you fill out the application correctly and assist you in providing the necessary documentation. We handle all communication with the relevant authority and follow up on your case on an ongoing basis. We advise you until the residence permit is obtained.",
+            "button_text": "START A CASE"
+        }
+    ],
+
+    "get_started": "GET STARTED",
+        "pricing_plans": [
+            {
+                "id": 1,
+                "title": "Family reunification to Denmark",
+                "price": "15,000 kr.",
+                "features": [
+                    "Consultation, guidance, and legal advice",
+                    "Availability for questions",
+                    "Assistance in filling out the application form",
+                    "Submitting an application to the Danish Immigration Service",
+                    "Preparation of cover letter",
+                    "Legal assistance at the hearing of the parties",
+                    "Ongoing follow-up until the case is closed",
+                    "Assistance with applying for a return permit",
+                    "Assistance with registration of CPR number"
+                ],
+                "bgColor": "bg-[#111d29] text-white",
+                "buttonBg": "bg-white text-[#111d29]"
+            },
+            {
+                "id": 2,
+                "title": "Family reunification according to EU rules",
+                "price": "17,500 kr.",
+                "features": [
+                    "Consultation, guidance, and legal advice",
+                    "Availability for questions",
+                    "Assistance in filling out the application form",
+                    "Submitting an application to SIRI",
+                    "Preparation of cover letter",
+                    "Legal assistance at the hearing of the parties",
+                    "Ongoing follow-up until the case is closed",
+                    "Assistance with applying for a return permit",
+                    "Assistance with registration of CPR number"
+                ],
+                "bgColor": "bg-white text-[#111d29] ",
+                "buttonBg": "bg-[#111d29] hover:bg-[#1e3859] transition duration-300 text-white"
+            },
+            {
+                "id": 3,
+                "title": "Appeal – Immigration Appeals Board",
+                "price": "10,000 kr.",
+                "features": [
+                    "Consultation, guidance, and legal advice",
+                    "Review of authority decision",
+                    "Availability for questions",
+                    "Case Order ID Creation",
+                    "Filing a complaint to the Immigration Appeals Board",
+                    "Legal assistance at the hearing of the parties",
+                    "Ongoing follow-up until the case is closed",
+                    "Assistance with applying for a return permit",
+                    "Preparation of party submissions",
+                    "Request for the complaint to be granted"
+                ],
+                "bgColor": "bg-white text-[#111d29]",
+                "buttonBg": "bg-[#111d29] hover:bg-[#1e3859] transition duration-300 text-white"
+            }
+        ],
+
+        "our_values": {
+            "heading": "At Globe Lawyers, we make a difference for our clients",
+            "trust": {
+                "title": "Trust",
+                "description": "As the client's trusted advisor, lawyers play a special role in society. We help people in significant, difficult, and sensitive situations."
+            },
+            "service": {
+                "title": "Service",
+                "description": "As a smaller law firm, we prioritize offering our clients specialized knowledge, closeness, and accessibility. We are always ready to help without obligations."
+            },
+            "experience": {
+                "title": "Experience",
+                "description": "We know immigration law in detail and have over 20 years of experience. Our expertise makes us one of the strongest law firms in our field."
+            },
+            "button_text": "START A CASE TODAY"
+        },
+
+        "experience": {
+            "left_experience": "Over 20 years of practical experience in handling immigration law cases",
+            "right_experience": "Fixed prices. Full transparency, credibility, and fair prices.",
+            "images": {
+              "title1": "We have many years of experience",
+              "description1": "Our solid experience and specialist knowledge have helped countless families achieve successful family reunification in Denmark. It is precisely this knowledge and experience that can be crucial to the outcome.",
+              "title2": "We make it easy for you",
+              "description2": "Applying for family reunification can often be a slow and cumbersome process. We will help you complete the application correctly and assist you in providing the necessary documentation.",
+              "title3": "We make it easy for you",
+              "description3": "Applying for family reunification can often be a slow and cumbersome process. We will help you complete the application correctly and assist you in providing the necessary documentation.",
+              "title4": "We make it easy for you",
+              "description4": "Applying for family reunification can often be a slow and cumbersome process. We will help you complete the application correctly and assist you in providing the necessary documentation."
+            }
+          },
+
+          "chat": {
+            "title": "Chat with Our Team",
+            "subtitle": "Need help? Have questions? Reach out to us and we'll get back within 2 hours.",
+            "first_name": "First name",
+            "last_name": "Last name",
+            "email": "Your email",
+            "address": "Your address",
+            "phone": "Enter your number",
+            "question": "What do you want to ask?",
+            "button": "Get in Touch"
+          },
+          "countries": {
+            "us": "United States",
+            "gb": "United Kingdom",
+            "in": "India",
+            "pk": "Pakistan",
+            "ca": "Canada",
+            "au": "Australia",
+            "fr": "France",
+            "de": "Germany"
+          },
+
+          "footer": {
+            "title": "Want to hear more?",
+            "description": "Get in touch with one of our lawyers who can help you with your case.",
+            "button": "LET US HELP YOU",
+            "address": {
+              "title": "Address",
+              "line1": "Bredgade 58A, 1",
+              "line2": "1260 Copenhagen K"
+            },
+            "contact": {
+              "title": "Contact",
+              "phone": "T: 78744165",
+              "email": "E: info@globeadvokater.dk",
+              "cvr": "CVR: 43999648"
+            }
+          }
+}
