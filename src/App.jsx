@@ -16,7 +16,8 @@ const Home = () => {
       <Services />
 
       {/* Sections for Smooth Scrolling */}
-      <section className='h-screen bg-amber-300' id="about">About </section>
+      <section className='h-screen  bg-[#ECF3F1]' id="empty">empty </section>
+      <section className='h-screen  bg-amber-300' id="about">About </section>
       <section className='h-screen bg-blue-300' id="services">Services </section>
       <section className='h-screen bg-green-300' id="works">Works </section>
       <section className='h-screen bg-yellow-300' id="pricing">Pricing </section>

@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { Link } from "react-scroll";
+import "@fontsource/poppins";
 
 // import { FaFacebook, FaTwitter, FaLinkedin, FaInstagram, FaPhoneAlt, FaBars, FaTimes } from "react-icons/fa";
 // import { HiOutlineMail } from "react-icons/hi";
@@ -13,9 +14,9 @@ const Navbar = () => {
 
 
             {/* Bottom Section */}
-            <nav className={`bg-[#ECF3F1] px-20 fixed top-0 left-0 w-full shadow-md z-50 transition-all duration-300 ${menuOpen ? "p-8" : "p-6"}`}>
+            <nav className={`bg-[#ECF3F1] font-poppins px-20   fixed top-0 left-0 w-full shadow-md z-50 transition-all duration-300 ${menuOpen ? "p-8" : "p-6"}`}>
                 <div className="container mx-auto flex justify-between items-center">
-                    <h1 className="text-3xl text-black font-bold ">Dorbesh</h1>
+                    <h1 className="text-3xl font-semibold">Dorbesh</h1>
 
                     {/* Hamburger Menu for Small Screens */}
                     <div className="md:hidden">
